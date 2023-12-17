@@ -15,6 +15,7 @@ Use 'np.linalg.inv(A)' to compute the inverse matrix, assigned to variable b.
 Display the inverse matrix b using 'print(b)' for examination.
 
 ## Program:
+~~~
 PYTHON
 #Program to find the inverse of a matrix.
 #Developed by: thenmozhi p
@@ -23,7 +24,7 @@ import numpy as np
 A=[[1,0,3],[-1,2,-2],[2,3,-1]]
 b=np.linalg.inv(A)
 print(b)
-
+~~~
 ## Output:
 ![image](https://github.com/thenmozhi05/INVERSE-OF-A-MATRIX/assets/140684207/e997b307-761c-46be-8000-33bfbae49348)
 
